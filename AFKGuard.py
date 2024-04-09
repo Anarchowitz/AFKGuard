@@ -1,3 +1,4 @@
+#v:1.0.0
 import telebot
 import time, os
 import pyautogui
